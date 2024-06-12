@@ -27,10 +27,10 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import coil.compose.rememberAsyncImagePainter
+import com.anil.moviesapp.R
 import com.jay.jaymoviesapp.data.model.Actors
 import com.jay.jaymoviesapp.data.model.Reviews
 import com.jay.jaymoviesapp.util.Constants
-import com.jay.jaymoviesapp.R
 
 
 /*Movie Actor's details Card*/

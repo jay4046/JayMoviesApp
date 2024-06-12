@@ -31,12 +31,12 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavHostController
 import coil.compose.rememberAsyncImagePainter
+import com.anil.moviesapp.R
 import com.jay.jaymoviesapp.data.model.Movie
 import com.jay.jaymoviesapp.features.components.actorsCard
 import com.jay.jaymoviesapp.features.components.reviewCard
 import com.jay.jaymoviesapp.util.Constants
 import com.jay.jaymoviesapp.util.Utility.fromJson
-import com.jay.jaymoviesapp.R
 
 @Composable
 fun DetailScreen(navController: NavHostController, movies: String?, myViewModel: DetailViewmodel) {
